@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.box {
+  border: 2px solid black;
+  margin-right: 538px;
+  margin-left: 555px;
+  margin-top: 143px;
+  padding-left: 58px;
+  line-height: 27px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: cadetblue;
+  padding-right: 60px;
+}
+
+.home-img1 {
+  border-radius: 144px;
+  position: absolute;
+  left: 322px;
+  top: 150px;
+}
+
+.home-img2 {
+  border-radius: 159px;
+  position: absolute;
+  top: 351px;
+  right: 310px;
+}
+
+.home-img3 {
+  border-radius: 159px;
+  position: absolute;
+  top: 375px;
+  left: 163px;
+}
+
+h1 {
+  font-size: 20px !important;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 25px !important;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.flex-container {
+  display: flex;
+}
+
+select {
+  box-shadow: none !important;
+  border-color: black !important;
+}
+
+input {
+  margin-top: 10px !important;
+  box-shadow: none !important;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 50px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.admin-access {
+  padding: 10px;
+  background-color: rgb(6, 0, 12);
+}
+
+.admin-access li {
+  list-style-type: none !important;
+  display: inline !important;
+}
+
+.admin-access a {
+  color: white !important;
+  padding: 20px;
+  text-decoration: none;
+}
+
+td,
+th,
+tr {
+  text-align: left;
+}
+
+#footer {
+  margin-top: 93px;
+}
+
+.box1 {
+  margin-right: -25px;
+    width: 326px;
+}
+
+.box2 {
+  margin-left: 20px;
+  width: 240px;
+}
+
+.image {
+  width: 100%;
+  height: 500px;
+}
+
+.details {
+  display: inline-block;
+  z-index: 1;
+  position: relative;
+  bottom: 328px;
+  right: 380px;
+  color: white;
+}
+.details .text{
+  font-weight: bold;
+  font-size: 39px;
+}
+.details .subtext{
+  font-weight: lighter;
+  font-size: 35px;
+}
+.details .btn{
+  border: 1px solid white;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
