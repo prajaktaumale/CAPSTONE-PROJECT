@@ -110,3 +110,8 @@ ADMIN RESTAURANT SCREEN
 ![admin-restaurant-screen](https://user-images.githubusercontent.com/88783118/209626802-2e2f77c8-70e5-4fec-952e-7b39f9519a56.png)
 
 
+
+### Demo Video
+
+
+
